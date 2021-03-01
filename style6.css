@@ -1,0 +1,42 @@
+body { font-family: Courier New;
+font-size: larger;
+}
+#bloc1 {
+background-color: #0000ff;
+height: 132px;
+}
+#logo {
+margin-top: 10px;
+margin-bottom: 10px;
+margin-left: 10px;
+margin-right: 10px;
+float: left
+}
+#titre {
+font-size: xx-large;
+font-weight:bold;
+color: #ffa500;
+margin-top: 6px;
+margin-left: 60px;
+padding-left: 100px;
+padding-top : 30px
+}
+#bloc2 {
+background-color: #ffa500;
+height: 20px;
+width: 100%;
+}
+.rubrique {
+margin-right: 10px;
+}
+.rubrique a {
+float: right;
+font-size: medium;
+font-weight:bold;
+text-decoration: none;
+color: #0000ff;
+margin-left: 15px;
+}
+#bloc3 {
+margin-left: 227px; 
+}
